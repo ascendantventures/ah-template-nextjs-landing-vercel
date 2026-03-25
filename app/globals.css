@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: __PRIMARY_COLOR__;
+  --font-sans: 'Plus Jakarta Sans', sans-serif;
+}
