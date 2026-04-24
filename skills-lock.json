@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "skills": {
+    "agent-browser": {
+      "source": "vercel-labs/agent-browser",
+      "sourceType": "github",
+      "computedHash": "c19a532a3777698b80b35270939a1dc559da451381971b3e1e78174d1ab54863"
+    },
+    "clone-website": {
+      "source": "julianromli/ai-skills",
+      "sourceType": "github",
+      "computedHash": "899d17e0db8f0d997dd76867c4a46f0c4211d982263e648d6c78da2614532d8c"
+    },
+    "context7": {
+      "source": "intellectronica/agent-skills",
+      "sourceType": "github",
+      "computedHash": "fccbea654f8e35824a8bdce3e059e206efeb6c1fab9f6c096c3867e761081983"
+    },
+    "frontend-design-ultimate": {
+      "source": "kesslerio/ultimate-frontend-design-openclaw-skill",
+      "sourceType": "github",
+      "computedHash": "4afb770ed28de2b9c675304536270f83f7cee97364c797bfe52f8866b231bbea"
+    },
+    "impeccable": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "computedHash": "a26b3dd377c4572b1c34c68f82ab9a1cb806f21c7157060327fe60e9b6d2e277"
+    },
+    "micro-landing-builder": {
+      "source": "shipshitdev/library",
+      "sourceType": "github",
+      "computedHash": "c23d27ce8cac93c94c3bb727772014151db676550e29ec36f0929972128ac400"
+    },
+    "nextjs-tinacms": {
+      "source": "baphomet480/claude-skills",
+      "sourceType": "github",
+      "computedHash": "ba04441c381ee98266ab0a83c8d17003505b4bdd83f69d4353975864134a38a7"
+    },
+    "playwright-testing": {
+      "source": "alinaqi/claude-bootstrap",
+      "sourceType": "github",
+      "computedHash": "f4f58145ec9b1f152123d26e47843ad81b9439f42dbb7c82b029ac613bed7814"
+    },
+    "using-superpowers": {
+      "source": "obra/superpowers",
+      "sourceType": "github",
+      "computedHash": "e0eced9fbb205c212f420aded0c6f2bf5d5f059254679a8459b4fe72390160be"
+    }
+  }
+}
